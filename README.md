@@ -1,2 +1,2 @@
-# Warfare-lite
+# Warfare-Lite
 Making a better Warzone
