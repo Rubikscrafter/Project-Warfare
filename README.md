@@ -1,4 +1,4 @@
-# Warfare-Lite
+# Project Warfare
 Making a better Warzone
 
 Resources
