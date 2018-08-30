@@ -1,0 +1,20 @@
+<DOCTYPE! html>
+
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>About Us </title>
+</head>
+
+<body>
+<h1 style="text-align:center" style="color:blue"> About Us </h1>
+<h2>Project NoName: iFlaimar, AceEffort, Devoid of Rubikscrafter, moldotron and DeltaV
+<p>We are a group of highschoolers who decided to learn programming, 
+with a variety of reasoning ranging from the desire to learn, to the desire to make a game.
+Due to our awareness that the internet can be a dangerous place, we will not be disclosing our name, nor will we be disclosing where we live.
+If you would like to contact us, please do so at InsertTeamEmail@Here.lmao</p>
+
+
+
+</html>
